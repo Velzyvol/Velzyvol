@@ -2,6 +2,7 @@
 - Я хорошо понимаю многие языки программирования.
 - Я строю "башню".
 - Помогаю Risen7 с разработкой сайта.
+- Ищу пропавшего друга.
 <!--
 **Velzyvol/Velzyvol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
